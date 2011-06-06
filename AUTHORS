@@ -1,0 +1,10 @@
+Peter Saunders <pajs@i-scream.org>
+Adam Sampson <ats@i-scream.org>
+Tim Bishop <tdb@i-scream.org>
+
+All code is released under the GPL or LGPL.
+
+http://www.i-scream.org/libstatgrab/
+
+
+Fix to support ext4 by jwatte@gmail.com; LGPL v2
