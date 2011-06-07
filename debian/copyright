@@ -1,0 +1,26 @@
+This work was packaged for IMVU by:
+
+    Stephen Weeks <sweeks@imvu.com> on Mon, 06 Jun 2011 17:24:49 -0700
+
+It was downloaded from <http://www.i-scream.org/libstatgrab/>
+
+Upstream Author(s):
+
+    aunders <pajs@i-scream.org>
+    Adam Sampson <ats@i-scream.org>
+    Tim Bishop <tdb@i-scream.org>
+
+  Fix to support ext4 by:
+    Jon Watte <jwatte@imvu.com>
+
+License:
+
+    All code is released under the GPL or LGPL.
+    Fix to support ext4 by jwatte@gmail.com: LGPL v2
+
+The IMVU packaging is:
+
+    Copyright (C) 2011 IMVU
+
+and is licensed under the LGPL version 2, 
+see `/usr/share/common-licenses/LGPL-2'.

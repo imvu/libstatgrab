@@ -1,0 +1,5 @@
+libstatgrab (0.17.1-1) unstable; urgency=low
+
+  * Initial release with custom imvu patches to support ext4.
+
+ -- Stephen Weeks <sweeks@imvu.com>  Mon, 06 Jun 2011 17:24:49 -0700

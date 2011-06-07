@@ -1,0 +1,25 @@
+Source: libstatgrab
+Priority: extra
+Maintainer: Stephen Weeks <sweeks@imvu.com>
+Build-Depends: debhelper (>= 7), autotools-dev
+Standards-Version: 3.8.3
+Section: libs
+Homepage: https://github.com/imvu/libstatgrab
+
+Package: libstatgrab-dev
+Section: libdevel
+Architecture: any
+Depends: libstatgrab6 (= ${binary:Version})
+Description: Cross platform statistics library development files
+ libstatgrab is a library for accessing information from the system
+ for statistical purposes. It could be used for software that monitors
+ the system for alerting or graphing purposes.
+
+Package: libstatgrab6
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Provides cross platform access to statistics.
+ libstatgrab is a library for accessing information from the system
+ for statistical purposes. It could be used for software that monitors
+ the system for alerting or graphing purposes.
